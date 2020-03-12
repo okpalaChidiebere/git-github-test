@@ -7,3 +7,4 @@ Technologies i am using are
 - terminal
 - my github website server
 - newLine edited
+- more technologies
