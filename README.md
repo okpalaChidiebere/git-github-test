@@ -6,4 +6,4 @@ Technologies i am using are
 - gitDesktop
 - terminal
 - my github website server
-- newLine
+- newLine edited
